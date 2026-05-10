@@ -29,6 +29,10 @@ Facial expressions play a crucial role in human communication serving as a power
             --num-workers=1 \
             --model-size='tiny'
 
+## Run ipynb on Kaggle
+
+Use dataset [FER2013](https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition)
+
 ## Comments
 Our codebase builds heavily on Facebook's [ConvNeXt](https://github.com/facebookresearch/ConvNeXt). Thanks for open-sourcing!
 
